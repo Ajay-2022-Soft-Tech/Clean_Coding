@@ -5,7 +5,6 @@ The app uses Bloc for state management and includes a login system. The app fetc
 List the main features of your app.
 
 markdown
-Copy code
 ## Features
 
 - User authentication with login/logout functionality
@@ -16,7 +15,6 @@ Copy code
 Provide steps to set up the project locally.
 
 markdown
-Copy code
 ## Installation
 
 1. **Clone the repository**
@@ -28,7 +26,6 @@ Copy code
 cd movie-api-app
 Install dependencies
 bash
-Copy code
 flutter pub get
 Set up your API
 Ensure your movie API is running and accessible.
@@ -44,3 +41,10 @@ Copy code
 2. **Run the app**
    ```bash
    flutter run
+
+   If you want others to contribute, add guidelines.
+
+markdown
+## Contribution
+
+Contributions are welcome! Please open an issue or submit a pull request.
