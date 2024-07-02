@@ -3,6 +3,7 @@ import 'package:clean_coding/config/routes/routes_name.dart';
 import 'package:clean_coding/repository/auth/auth_http_api_repository.dart';
 import 'package:clean_coding/repository/auth/auth_mock_api_repository.dart';
 import 'package:clean_coding/repository/auth/login_repository.dart';
+import 'package:clean_coding/repository/movies_api/movies_repository.dart';
 import 'package:flutter/material.dart';
 import 'package:get_it/get_it.dart';
 
@@ -36,5 +37,6 @@ class MyApp extends StatelessWidget {
 
 void servicesLocator() {
   getIt.registerLazySingleton<LoginRepository>(() => LoginMockApiRepository());
+  getIt.registerLazySingleton<MoviesApiRepository>(() => MoviesHttpApiRepository());
 
 }
