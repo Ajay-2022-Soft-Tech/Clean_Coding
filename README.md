@@ -5,7 +5,7 @@ markdown
 Copy code
 # Movie API App
 
-This is a Flutter application that allows users to browse a list of movies. The app uses Bloc for state management and includes a login system. The app fetches movie data from a custom API.
+The app uses Bloc for state management and includes a login system. The app fetches movie data from a custom API.
 2. Features
 List the main features of your app.
 
@@ -14,7 +14,6 @@ Copy code
 ## Features
 
 - User authentication with login/logout functionality
-- Browse a list of movies
 - View details of each movie
 - State management with Bloc
 - Error handling for network issues
