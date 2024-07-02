@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
 import '../../../bloc/login/login_bloc.dart';
+import '../../../config/routes/routes_name.dart';
 import '../../../utils/enums.dart';
 
 /// A widget representing the submit button for the login form.
@@ -20,8 +21,8 @@ class SubmitButton extends StatelessWidget {
         }
 
         if (state.postApiStatus == PostApiStatus.success) {
-          context.flushBarSuccessMessage(message: 'Login Successful');
-          // Navigator.pushNamedAndRemoveUntil(context, RoutesName.homeScreen, (route) => false);
+          // context.flushBarSuccessMessage(message: 'Login Successful');
+          Navigator.pushNamedAndRemoveUntil(context, RoutesName.homeScreen, (route) => false);
         }
       },
       child: BlocBuilder<LoginBloc, LoginStates>(
