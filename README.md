@@ -6,7 +6,7 @@ List the main features of your app.
 
 <img src="https://github.com/Ajay-2022-Soft-Tech/Clean_Coding/assets/113298640/ae5eb2b3-8cfb-4cdf-87cd-ce86e9b1693b"  width="300" height="600" />
 
-<img src="https://github.com/Ajay-2022-Soft-Tech/Clean_Coding/assets/113298640/51d7c101-28d0-48a0-957c-eca431dac84d"  width="200" height="400" />
+<img src="https://github.com/Ajay-2022-Soft-Tech/Clean_Coding/assets/113298640/51d7c101-28d0-48a0-957c-eca431dac84d"  width="300" height="600" />
 
 ## Features
 
