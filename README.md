@@ -44,6 +44,9 @@ Copy code
 
    If you want others to contribute, add guidelines.
 
+"email": "eve.holt@reqres.in",
+"password": "cityslicka"
+
 markdown
 ## Contribution
 
