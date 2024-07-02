@@ -1,8 +1,3 @@
-1. Project Overview
-Start with a brief overview of the project.
-
-markdown
-Copy code
 # Movie API App
 
 The app uses Bloc for state management and includes a login system. The app fetches movie data from a custom API.
