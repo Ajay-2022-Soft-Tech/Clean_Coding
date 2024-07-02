@@ -4,9 +4,8 @@ The app uses Bloc for state management and includes a login system. The app fetc
 2. Features
 List the main features of your app.
 
-![WhatsApp Image 2024-07-02 at 20 33 46_514f9a59](https://github.com/Ajay-2022-Soft-Tech/Clean_Coding/assets/113298640/46d01783-d412-4e0e-aa88-94ccb8f17a09)
+<img src="https://github.com/Ajay-2022-Soft-Tech/Clean_Coding/assets/113298640/ae5eb2b3-8cfb-4cdf-87cd-ce86e9b1693b"  width="200" height="400" />
 
-![WhatsApp Image 2024-07-02 at 20 33 46_7fbc46c4](https://github.com/Ajay-2022-Soft-Tech/Clean_Coding/assets/113298640/09abf428-6d0c-4ea1-b9a5-80b0a68d310b)
 
 ## Features
 
